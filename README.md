@@ -28,7 +28,7 @@ Este repositório contém os códigos-fonte das aulas e exercícios resolvidos d
 
 1. Clonar o repositório:
    
-   git clone https://github.com/LucVinicius-DEV/programacaoOrientadaAObjetos.git
+https://github.com/LucVinicius-DEV/programacaoOrientadaAObjetos.git
 
 2. Abrir em uma IDE como IntelliJ ou VS Code com suporte a Java.
 
