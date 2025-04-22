@@ -68,13 +68,13 @@ Ideal para quem está começando a aplicar conceitos de OOP com exemplos simples
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com a mentoria da Luna.
 
 
 ---
 
-⭐ Gostou do projeto?
+## ⭐ Gostou do projeto?
 
 Deixe uma estrela no repositório e acompanhe o progresso no GitHub!
